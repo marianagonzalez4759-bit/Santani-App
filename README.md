@@ -1,5 +1,7 @@
 # Santani Calzado
 
+Versión publicada: https://marianagonzalez4759-bit.github.io/Santani-App/
+
 App web para llevar el negocio de calzado: pedidos, clientes, modelos con fotos y colores,
 cotizaciones, finanzas (ingresos, gastos y balance) y pendientes. Está pensada para usarse
 con letra grande y botones anchos, desde el teléfono o la computadora.
